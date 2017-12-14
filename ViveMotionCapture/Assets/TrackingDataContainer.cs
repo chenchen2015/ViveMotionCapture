@@ -1,3 +1,9 @@
+// Vive Motion Capture Data Structures
+// version: 1.0
+// For Data as Art class Fall 2017 (Northwestern University and School of the Art Institute of Chicago)
+// Chen Chen
+// License: MIT
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
