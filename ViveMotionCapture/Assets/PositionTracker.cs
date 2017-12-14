@@ -1,8 +1,8 @@
 // Vive Motion Capture
 // version: 1.0
-// For Data as Art class Fall 2017
+// For Data as Art class Fall 2017 (Northwestern University and School of the Art Institute of Chicago)
 // Chen Chen
-// License: Apache 2.0
+// License: MIT
 
 using System.Collections;
 using System.Collections.Generic;
